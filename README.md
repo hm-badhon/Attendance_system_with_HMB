@@ -18,6 +18,29 @@ Face Recognition System is a graphical user interface (GUI) application develope
 - **Data Training:**
   - Train the face recognition model with new data.
 
+## Screenshots
+
+1. Login Page
+
+![image](https://github.com/Taha533/Face-Recognition-based-Attendance-System/blob/main/Images_GUI/Login%20Page.PNG)
+
+2. Student Panel
+
+![image](https://github.com/Taha533/Face-Recognition-based-Attendance-System/blob/main/Images_GUI/main_page.PNG)
+
+3. Train Panel
+
+![image](https://github.com/Taha533/Face-Recognition-based-Attendance-System/blob/main/Images_GUI/train_pannel.PNG)
+
+4. Face Detector panel
+
+![image](https://github.com/Taha533/Face-Recognition-based-Attendance-System/blob/main/Images_GUI/face_detector.PNG)
+
+5. Attendance panel
+
+![image](https://github.com/Taha533/Face-Recognition-based-Attendance-System/blob/main/Images_GUI/attendance_pannel.PNG)
+
+
 ## Prerequisites
 
 - Python 3.x
